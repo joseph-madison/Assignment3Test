@@ -1,0 +1,4 @@
+test@email.com1,passwordTest!1,User1
+another@user.com2,asdfasdf2,User2
+john.doe@mydomain.net3,Hdk398jf!3,JohnDoe3
+jane.doe@myotherdomain.com4,sunrise-sunset4,JaneDoe4
